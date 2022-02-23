@@ -181,7 +181,7 @@ img {
 }
 
 .header-contact-icon{
-fill: var(--primery-text-color-light-theme);
+fill: currentColor;
 margin-right: 10px;
 align-items: baseline;
 justify-content: center;
